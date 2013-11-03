@@ -1,0 +1,33 @@
+body {
+    font-family:sans-serif;
+}
+
+.sideBar {
+    position:fixed;
+    height : 100%;
+    width : 100px;
+    right : -95px;
+    border-style : solid;
+    border-width : 2px;
+    border-radius : 10px;
+}
+.dataBox {
+    border-style : solid;
+    border-width : 2px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.statusBar {
+    background-color : #999;
+    display : absolute;
+    top : 0;
+    left : 0;
+    width : inherit;
+    height : 50px;
+    text-align:center;
+    color:white;
+    font-size:40px;
+}
+.selected {
+    background-color:green;
+}
