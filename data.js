@@ -93,3 +93,17 @@ var dispatchList = {
 };
 
 
+//This is a comma delimited list of phone contacts like what would be extracted
+//from a spread sheet.
+var rawContacts='Day Supervisor,650-555-6574;\
+Swing Supervisor,650-555-3854;\
+Grave Supervisor,650-555-4613;\
+Techsupport,408-555-7894;\
+Facilities,650-555-8612;\
+Police Station,650-555-4714';
+
+//This will parse the contacts into a readable JS object
+var contactList = [];
+for (var i in rawContacts.split(';')) {
+    contactList.push(rawContacts.split(';')[i].split(','));
+}

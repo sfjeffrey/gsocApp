@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Event Visualizer</title>
+        <script type="application/javascript">
+    String.prototype.contains = function(string) {
+        if (this.search(string) >= 0) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    };
+</script>
+        <script type="application/javascript" src="jQuery.js"></script> 
+        <script type="application/javascript" src="raphael.js"></script>
+        <script type="application/javascript" src="eventGraphScript.js"></script>
+    </head>
+    <body>
+    
+    <input type="text" name="report">
+    <div style="
+        background-color:gray;
+        border-radius:10px;
+        text-align:center;
+        width:3em;
+        padding:5px;">Parse</div>
+    
+    
+    </body>
+</html>
