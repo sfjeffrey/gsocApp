@@ -1,0 +1,108 @@
+Message Local Date/Time,Message Type,Message Text,Server Date/Time,Message Date/Time,Partition,
+8/28/2013 23:13,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,8/28/2013 23:13,8/28/2013 23:13,Default: CCURE-SAS-1
+8/28/2013 23:18,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",8/28/2013 23:18,8/28/2013 23:18,Default: CCURE-SAS-1
+8/28/2013 23:18,Log Message,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Security was in the area secure .,8/28/2013 23:18,8/28/2013 23:18,Default: CCURE-SAS-1
+8/28/2013 23:18,Manual Action,"Manual action by 'Dean, Moheez': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",8/28/2013 23:18,8/28/2013 23:18,Default: CCURE-SAS-1
+8/28/2013 23:18,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Dean, Moheez [Global].",8/28/2013 23:18,8/28/2013 23:18,Default: CCURE-SAS-1
+8/28/2013 23:18,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,8/28/2013 23:18,8/28/2013 23:18,Default: CCURE-SAS-1
+8/29/2013 23:35,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,8/29/2013 23:35,8/29/2013 23:35,Default: CCURE-SAS-1
+8/29/2013 23:38,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",8/29/2013 23:38,8/29/2013 23:38,Default: CCURE-SAS-1
+8/29/2013 23:38,Manual Action,"Manual action by 'Sanchez, Trinidad': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",8/29/2013 23:38,8/29/2013 23:38,Default: CCURE-SAS-1
+8/29/2013 23:38,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Sanchez, Trinidad [Global].",8/29/2013 23:38,8/29/2013 23:38,Default: CCURE-SAS-1
+8/29/2013 23:38,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,8/29/2013 23:38,8/29/2013 23:38,Default: CCURE-SAS-1
+8/30/2013 17:18,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,8/30/2013 17:18,8/30/2013 17:18,Default: CCURE-SAS-1
+8/30/2013 17:19,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Employee Traffic.",8/30/2013 17:19,8/30/2013 17:19,Default: CCURE-SAS-1
+8/30/2013 17:19,Manual Action,"Manual action by 'Klug, Kevin': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",8/30/2013 17:19,8/30/2013 17:19,Default: CCURE-SAS-1
+8/30/2013 17:19,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Klug, Kevin [Global].",8/30/2013 17:19,8/30/2013 17:19,Default: CCURE-SAS-1
+8/30/2013 17:19,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,8/30/2013 17:19,8/30/2013 17:19,Default: CCURE-SAS-1
+8/30/2013 17:28,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,8/30/2013 17:28,8/30/2013 17:28,Default: CCURE-SAS-1
+8/30/2013 17:29,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Employee Traffic.",8/30/2013 17:29,8/30/2013 17:29,Default: CCURE-SAS-1
+8/30/2013 17:29,Manual Action,"Manual action by 'Klug, Kevin': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",8/30/2013 17:29,8/30/2013 17:29,Default: CCURE-SAS-1
+8/30/2013 17:29,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Klug, Kevin [Global].",8/30/2013 17:29,8/30/2013 17:29,Default: CCURE-SAS-1
+8/30/2013 17:29,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,8/30/2013 17:29,8/30/2013 17:29,Default: CCURE-SAS-1
+9/2/2013 11:33,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/2/2013 11:33,9/2/2013 11:33,Default: CCURE-SAS-1
+9/2/2013 12:03,Log Message,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': security on foot.,9/2/2013 12:03,9/2/2013 12:03,Default: CCURE-SAS-1
+9/2/2013 12:03,Manual Action,"Manual action by 'Luna, Ernesto': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/2/2013 12:03,9/2/2013 12:03,Default: CCURE-SAS-1
+9/2/2013 12:03,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Luna, Ernesto [Global].",9/2/2013 12:03,9/2/2013 12:03,Default: CCURE-SAS-1
+9/2/2013 12:03,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/2/2013 12:03,9/2/2013 12:03,Default: CCURE-SAS-1
+9/3/2013 18:55,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/3/2013 18:55,9/3/2013 18:55,Default: CCURE-SAS-1
+9/3/2013 19:10,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/3/2013 19:10,9/3/2013 19:10,Default: CCURE-SAS-1
+9/3/2013 19:11,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/3/2013 19:11,9/3/2013 19:11,Default: CCURE-SAS-1
+9/3/2013 19:11,Manual Action,"Manual action by 'Perez, Rodolfo': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/3/2013 19:11,9/3/2013 19:11,Default: CCURE-SAS-1
+9/3/2013 19:11,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Perez, Rodolfo [Global].",9/3/2013 19:11,9/3/2013 19:11,Default: CCURE-SAS-1
+9/3/2013 19:11,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/3/2013 19:11,9/3/2013 19:11,Default: CCURE-SAS-1
+9/4/2013 17:57,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/4/2013 17:57,9/4/2013 17:57,Default: CCURE-SAS-1
+9/4/2013 18:06,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/4/2013 18:06,9/4/2013 18:06,Default: CCURE-SAS-1
+9/4/2013 18:09,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/4/2013 18:09,9/4/2013 18:09,Default: CCURE-SAS-1
+9/4/2013 18:10,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/4/2013 18:10,9/4/2013 18:10,Default: CCURE-SAS-1
+9/4/2013 18:10,Manual Action,"Manual action by 'Barajas, Eric': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/4/2013 18:10,9/4/2013 18:10,Default: CCURE-SAS-1
+9/4/2013 18:10,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Barajas, Eric [Global].",9/4/2013 18:10,9/4/2013 18:10,Default: CCURE-SAS-1
+9/4/2013 18:10,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/4/2013 18:10,9/4/2013 18:10,Default: CCURE-SAS-1
+9/4/2013 18:10,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/4/2013 18:10,9/4/2013 18:10,Default: CCURE-SAS-1
+9/4/2013 19:16,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/4/2013 19:16,9/4/2013 19:16,Default: CCURE-SAS-1
+9/4/2013 19:20,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/4/2013 19:20,9/4/2013 19:20,Default: CCURE-SAS-1
+9/4/2013 19:21,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/4/2013 19:21,9/4/2013 19:21,Default: CCURE-SAS-1
+9/4/2013 19:21,Manual Action,"Manual action by 'Perez, Rodolfo': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/4/2013 19:21,9/4/2013 19:21,Default: CCURE-SAS-1
+9/4/2013 19:21,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Perez, Rodolfo [Global].",9/4/2013 19:21,9/4/2013 19:21,Default: CCURE-SAS-1
+9/4/2013 19:21,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/4/2013 19:21,9/4/2013 19:21,Default: CCURE-SAS-1
+9/4/2013 23:13,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/4/2013 23:13,9/4/2013 23:13,Default: CCURE-SAS-1
+9/4/2013 23:14,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/4/2013 23:14,9/4/2013 23:14,Default: CCURE-SAS-1
+9/4/2013 23:15,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/4/2013 23:15,9/4/2013 23:15,Default: CCURE-SAS-1
+9/4/2013 23:15,Manual Action,"Manual action by 'Barajas, Eric': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/4/2013 23:15,9/4/2013 23:15,Default: CCURE-SAS-1
+9/4/2013 23:15,Manual Action,"Manual action by 'Barajas, Eric': deactivated ManualAction - acknowledge 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/4/2013 23:15,9/4/2013 23:15,Default: CCURE-SAS-1
+9/4/2013 23:15,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Barajas, Eric [Global].",9/4/2013 23:15,9/4/2013 23:15,Default: CCURE-SAS-1
+9/4/2013 23:15,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/4/2013 23:15,9/4/2013 23:15,Default: CCURE-SAS-1
+9/11/2013 17:16,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/11/2013 17:16,9/11/2013 17:16,Default: CCURE-SAS-1
+9/11/2013 18:24,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/11/2013 18:24,9/11/2013 18:24,Default: CCURE-SAS-1
+9/11/2013 18:32,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/11/2013 18:32,9/11/2013 18:32,Default: CCURE-SAS-1
+9/11/2013 18:55,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/11/2013 18:55,9/11/2013 18:55,Default: CCURE-SAS-1
+9/11/2013 18:55,Manual Action,"Manual action by 'Barajas, Eric': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/11/2013 18:55,9/11/2013 18:55,Default: CCURE-SAS-1
+9/11/2013 18:55,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Barajas, Eric [Global].",9/11/2013 18:55,9/11/2013 18:55,Default: CCURE-SAS-1
+9/11/2013 18:55,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/11/2013 18:55,9/11/2013 18:55,Default: CCURE-SAS-1
+9/15/2013 18:27,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/15/2013 18:27,9/15/2013 18:27,Default: CCURE-SAS-1
+9/15/2013 18:29,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/15/2013 18:29,9/15/2013 18:29,Default: CCURE-SAS-1
+9/15/2013 18:30,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/15/2013 18:30,9/15/2013 18:30,Default: CCURE-SAS-1
+9/15/2013 18:30,Manual Action,"Manual action by 'Howard, William': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/15/2013 18:30,9/15/2013 18:30,Default: CCURE-SAS-1
+9/15/2013 18:30,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Howard, William [Global].",9/15/2013 18:30,9/15/2013 18:30,Default: CCURE-SAS-1
+9/15/2013 18:30,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/15/2013 18:30,9/15/2013 18:30,Default: CCURE-SAS-1
+9/16/2013 23:04,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/16/2013 23:04,9/16/2013 23:04,Default: CCURE-SAS-1
+9/16/2013 23:46,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/16/2013 23:46,9/16/2013 23:46,Default: CCURE-SAS-1
+9/16/2013 23:47,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/16/2013 23:47,9/16/2013 23:47,Default: CCURE-SAS-1
+9/16/2013 23:47,Manual Action,"Manual action by 'Jeffrey, Scott': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/16/2013 23:47,9/16/2013 23:47,Default: CCURE-SAS-1
+9/16/2013 23:47,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Jeffrey, Scott [Global].",9/16/2013 23:47,9/16/2013 23:47,Default: CCURE-SAS-1
+9/16/2013 23:47,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/16/2013 23:47,9/16/2013 23:47,Default: CCURE-SAS-1
+9/18/2013 22:55,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/18/2013 22:55,9/18/2013 22:55,Default: CCURE-SAS-1
+9/18/2013 22:58,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/18/2013 22:58,9/18/2013 22:58,Default: CCURE-SAS-1
+9/18/2013 22:58,Manual Action,"Manual action by 'Perez, Rodolfo': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/18/2013 22:58,9/18/2013 22:58,Default: CCURE-SAS-1
+9/18/2013 22:58,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Perez, Rodolfo [Global].",9/18/2013 22:58,9/18/2013 22:58,Default: CCURE-SAS-1
+9/18/2013 22:58,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/18/2013 22:58,9/18/2013 22:58,Default: CCURE-SAS-1
+9/20/2013 21:03,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/20/2013 21:03,9/20/2013 21:03,Default: CCURE-SAS-1
+9/20/2013 21:19,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/20/2013 21:19,9/20/2013 21:19,Default: CCURE-SAS-1
+9/20/2013 21:20,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Reviewing videoVid Review shows janitorial staff on-site. .",9/20/2013 21:20,9/20/2013 21:20,Default: CCURE-SAS-1
+9/20/2013 21:20,Manual Action,"Manual action by 'Howard, William': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/20/2013 21:20,9/20/2013 21:20,Default: CCURE-SAS-1
+9/20/2013 21:20,Manual Action,"Manual action by 'Howard, William': deactivated ManualAction - acknowledge 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/20/2013 21:20,9/20/2013 21:20,Default: CCURE-SAS-1
+9/20/2013 21:20,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Howard, William [Global].",9/20/2013 21:20,9/20/2013 21:20,Default: CCURE-SAS-1
+9/20/2013 21:20,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/20/2013 21:20,9/20/2013 21:20,Default: CCURE-SAS-1
+9/25/2013 23:01,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/25/2013 23:01,9/25/2013 23:01,Default: CCURE-SAS-1
+9/25/2013 23:02,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/25/2013 23:02,9/25/2013 23:02,Default: CCURE-SAS-1
+9/25/2013 23:02,Manual Action,"Manual action by 'Barajas, Eric': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/25/2013 23:02,9/25/2013 23:02,Default: CCURE-SAS-1
+9/25/2013 23:02,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Barajas, Eric [Global].",9/25/2013 23:02,9/25/2013 23:02,Default: CCURE-SAS-1
+9/25/2013 23:02,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/25/2013 23:02,9/25/2013 23:02,Default: CCURE-SAS-1
+9/30/2013 20:17,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/30/2013 20:17,9/30/2013 20:17,Default: CCURE-SAS-1
+9/30/2013 20:19,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/30/2013 20:19,9/30/2013 20:19,Default: CCURE-SAS-1
+9/30/2013 20:20,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/30/2013 20:20,9/30/2013 20:20,Default: CCURE-SAS-1
+9/30/2013 20:20,Manual Action,"Manual action by 'Howard, William': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/30/2013 20:20,9/30/2013 20:20,Default: CCURE-SAS-1
+9/30/2013 20:20,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Howard, William [Global].",9/30/2013 20:20,9/30/2013 20:20,Default: CCURE-SAS-1
+9/30/2013 20:20,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/30/2013 20:20,9/30/2013 20:20,Default: CCURE-SAS-1
+9/30/2013 22:42,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,9/30/2013 22:42,9/30/2013 22:42,Default: CCURE-SAS-1
+9/30/2013 22:54,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",9/30/2013 22:54,9/30/2013 22:54,Default: CCURE-SAS-1
+9/30/2013 22:56,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",9/30/2013 22:56,9/30/2013 22:56,Default: CCURE-SAS-1
+9/30/2013 22:56,Manual Action,"Manual action by 'Perez, Rodolfo': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",9/30/2013 22:56,9/30/2013 22:56,Default: CCURE-SAS-1
+9/30/2013 22:56,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Perez, Rodolfo [Global].",9/30/2013 22:56,9/30/2013 22:56,Default: CCURE-SAS-1
+9/30/2013 22:56,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,9/30/2013 22:56,9/30/2013 22:56,Default: CCURE-SAS-1
+10/2/2013 19:44,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is active.,10/2/2013 19:44,10/2/2013 19:44,Default: CCURE-SAS-1
+10/2/2013 20:28,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Beginning alarm investigation.",10/2/2013 20:28,10/2/2013 20:28,Default: CCURE-SAS-1
+10/2/2013 20:30,Log Message,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]': Exiting traffic - RTE issue.",10/2/2013 20:30,10/2/2013 20:30,Default: CCURE-SAS-1
+10/2/2013 20:30,Manual Action,"Manual action by 'Barajas, Eric': acknowledge Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]'.",10/2/2013 20:30,10/2/2013 20:30,Default: CCURE-SAS-1
+10/2/2013 20:30,Object Changed State,"Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' acknowledged by Barajas, Eric [Global].",10/2/2013 20:30,10/2/2013 20:30,Default: CCURE-SAS-1
+10/2/2013 20:30,Object Changed State,Event 'US MTV 44 1-100 LOBBY FORCED [Default: CCURE-SAS-1]' is inactive.,10/2/2013 20:30,10/2/2013 20:30,Default: CCURE-SAS-1

@@ -41,3 +41,18 @@ body {
 td {
     text-align:center;
 }
+textarea {
+    resize : none;
+    
+}
+#popup {
+    border-style:solid;
+    border-radius:10px;
+    background-color:black;
+    color:white;
+    position:absolute;
+    padding:5px;
+    left: -500px;
+    top: -500px;
+    width:200px;
+}
