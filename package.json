@@ -1,0 +1,15 @@
+{
+  "name": "GSOC_App",
+  "version": "0.0.1",
+  "description": "Demonstrates possible Apps for GSOC",
+  "repository": "https://github.com/sfjeffrey/gsocApp",
+  "dependencies": {
+    	"express": "2.5.x",
+		"now": "0.8.x",
+		"mailer": "0.6.x"
+  },
+  "engines": {
+    "node": "0.10.20",
+    "npm":  "1.2.30"
+  }
+}
