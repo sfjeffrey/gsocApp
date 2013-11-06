@@ -8,6 +8,7 @@ var xMod=0;
 var yMod= -70;
 var currentDate = '1/1/0';
 
+//Function which calls the graphical functions based on the message
 var printLog = function(string) {
     if ( !isNaN(string[0]) ) {
         var date = string.slice(0,string.search(' '));
@@ -20,6 +21,8 @@ var printLog = function(string) {
     drawNode(string);
 };
 
+//Function that draws a dot according to the journal message and ajoining line
+//when appropriate
 var drawNode = function(string) {
     var y;
     var color;
@@ -45,8 +48,10 @@ var drawNode = function(string) {
     
     var x = parseX(string);
     var circle = paper.circle( x,y,4).attr('fill',color);
+    
+//  Function for mousing over the nodes. Moves the popup DIV and changes the text
+//  and background color.
     circle.mouseover(function() {
-
         var messege = string.split(',').slice(0,3).toString();
         $('#popup').css('left',x);
         $('#popup').css('top',y);
@@ -60,6 +65,8 @@ var drawNode = function(string) {
     lastActive=[x,y];
 };
 
+
+//Function that parses the time of the message into an X coordinate
 var parseX = function (string) {
     var colon = string.search(':');
     var time = string.slice(colon-2,colon+3);
@@ -74,7 +81,7 @@ var parseX = function (string) {
     return output;// - xMod;
 };
 
-
+//Function that sets up the Raphael canvas
 var openCanvas = function(){
     $('body').html('');
     paper = Raphael(0,0,1500,80);
@@ -82,6 +89,8 @@ var openCanvas = function(){
     //setDay();
 
 };
+
+//Function that adds a new row for a new day's worth of alarms
 var setDay = function() {
     paper.setSize(1700, paper.height+70);
     paper.text(50,10+yMod,currentDate);
@@ -97,19 +106,23 @@ var setDay = function() {
     }
 };
 
+//Function that initiates the App. Converts the plain text of the report into an
+//array, sets up the canvas, and then iterates through the array calling the
+//print function
 var parseReport = function(){
     report = $('textarea').val().split('\n');
     openCanvas();
     for (var j in report) {
         printLog(report[j]);
     }
-    setDay();
 };
 ////////////////////////////////////////////////////////////////////////////////
 //                            DOCUMENT READY FUNCTION
 ////////////////////////////////////////////////////////////////////////////////
 $(document).ready(function(){
     $('div').click(parseReport);
+    
+//  Function that removes the popup DIV when the document is clicked.
     $(document).click(function() {
         $('#popup').css('left','-500px');
         $('#popup').css('top','-500px');
